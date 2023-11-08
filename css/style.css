@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'macarena';
+    font-style: normal;
+    font-weight: normal;
+    src: url(macarena.ttf);
+}
+
+@font-face {
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: normal;
+    src: url(Montserrat-Regular.ttf);
+}
+
+*{
+    background-color: #F1F0EE;
+}
+
+
+.nav-link{
+    font-family: 'montserrat';
+   
+}
+
+a .nav-link{
+    color: #7C846C;
+}
+
+#navbarSupportedContent{
+    margin-left: 400px;
+}
+
